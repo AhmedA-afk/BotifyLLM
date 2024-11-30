@@ -1,0 +1,12 @@
+streamlit
+beautifulsoup4
+requests
+nomic
+nomic-embed-text
+BeautifulSoup
+requests
+httpx
+streamlit
+requests
+beautifulsoup4
+ollama
